@@ -14,6 +14,9 @@
 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="www.linkedin.com/in/jordan-h-2b11261b4" />][linkedin]
+<a href="https://www.linkedin.com/in/jordan-h-2b11261b4" target="_blank">
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 
